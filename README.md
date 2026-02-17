@@ -16,4 +16,4 @@ Preliminary gap assessment checklist based on IOT standard - IEC 62433
 6. Risk Assessment - draft
 Risk register with sample risk matrix to prepare Heatmap.
 
-**Note:** All highlighted columns 
+**Note:** All highlighted columns include formulas applied
