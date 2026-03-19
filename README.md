@@ -17,3 +17,10 @@ Preliminary gap assessment checklist based on IOT standard - IEC 62433
 Risk register with sample risk matrix to prepare Heatmap.
 
 **Note:** All highlighted columns include formulas applied
+
+Disclaimer	
+This Excel template is independently created and is not affiliated with, nor has it been officially endorsed by, any organizations. 	
+While efforts have been made to ensure accuracy and reliability, the content may contain errors or omissions. 	
+This template is provided "as is," and the creator assumes no liability for any mistakes or inaccuracies that may exist, nor for any decisions made based on its use.	
+Users are encouraged to verify the information and adapt the template as necessary to suit their specific needs.	
+Users are free to modify and share this template to fit their purposes.
